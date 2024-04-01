@@ -1,0 +1,9 @@
+[submodule "viperjs"]
+	path = viperjs
+	url = https://github.com/FunnyWolf/viperjs.git
+[submodule "viperpython"]
+	path = viperpython
+	url = https://github.com/FunnyWolf/viperpython.git
+[submodule "vipermsf"]
+	path = vipermsf
+	url = https://github.com/FunnyWolf/vipermsf.git
